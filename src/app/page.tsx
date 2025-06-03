@@ -70,7 +70,7 @@ export default function Portfolio() {
     },
     {
       degree: "Secondary Education",
-      school: "St.Ann's EM School",
+      school: "St.Ann&apos;s EM School",
       year: "2018-2019",
       description: "Languages and Social Sciences",
     },
@@ -206,7 +206,7 @@ export default function Portfolio() {
               />
             </div>
             <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6">
-              Hi, I'm{" "}
+              Hi, I&apos;m{" "}
               <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
                 Vivek Rayudu
               </span>
@@ -268,13 +268,13 @@ export default function Portfolio() {
 
           <div className="grid md:grid-cols-2 gap-6 items-start">
             <div>
-              <h3 className="text-2xl font-semibold text-gray-900 mb-4">I'm Vivek</h3>
+              <h3 className="text-2xl font-semibold text-gray-900 mb-4">I&apos;m Vivek</h3>
               <p className="text-gray-600 text-lg mb-4 leading-relaxed">
                 I am a Computer Science and Engineering undergraduate student from IIT Patna (2021-25), passionate about
                 full stack development and software engineering. I am actively looking for opportunities.
               </p>
               <p className="text-gray-600 text-lg mb-4 leading-relaxed">
-                When I'm not coding, you can find me exploring new technologies, contributing to open-source projects,
+                When I&apos;m not coding, you can find me exploring new technologies, contributing to open-source projects,
                 or enjoying a good cup of coffee while sketching out my next big idea.
               </p>
 
@@ -436,9 +436,9 @@ export default function Portfolio() {
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-12 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto text-center">
-          <h3 className="text-2xl font-bold mb-4">Let's Work Together</h3>
+          <h3 className="text-2xl font-bold mb-4">Let&apos;s Work Together</h3>
           <p className="text-gray-400 mb-8 max-w-2xl mx-auto">
-            I'm always interested in new opportunities and exciting projects. Let's connect and create something amazing
+            I&apos;m always interested in new opportunities and exciting projects. Let&apos;s connect and create something amazing
             together!
           </p>
           <div className="flex justify-center space-x-6 mb-8">
