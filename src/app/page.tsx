@@ -70,7 +70,7 @@ export default function Portfolio() {
     },
     {
       degree: "Secondary Education",
-      school: "St.Ann&apos;s EM School",
+      school: "St.Ann's EM School",
       year: "2018-2019",
       description: "Languages and Social Sciences",
     },
